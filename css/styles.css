@@ -1160,32 +1160,32 @@ ul {
 }
 
 .esquitec {
-    background-image: url(/img/proyectos/elecciones.jpg);
+    background-image: url(/img/proyectos/elecciones.webp);
     height: 300px;
     background-size: cover;
     background-position: center;
 }
 
 .argonaut {
-    background-image: url(/img/proyectos/mina.jpg);
+    background-image: url(/img/proyectos/mina.webp);
     height: 300px;
     background-size: cover;
 }
 
 .iqua {
-    background-image: url(/img/proyectos/iqua.jpg);
+    background-image: url(/img/proyectos/iqua.webp);
     height: 300px;
     background-size: cover;
 }
 
 .mayo {
-    background-image: url(/img/proyectos/rio\ mayo.jpg);
+    background-image: url(/img/proyectos/rio\ mayo.webp);
     height: 300px;
     background-size: cover;
 }
 
 .guaymex {
-    background-image: url(/img/proyectos/guaymex.jpg);
+    background-image: url(/img/proyectos/guaymex.webp);
     height: 300px;
     background-size: cover;
     background-position: center;
@@ -1246,7 +1246,7 @@ ul {
 }
 
 .eq-sat-mobile {
-    background-image: url(/img/equipos\ satelitales\ mobile.jpg);
+    background-image: url(/img/equipos\ satelitales\ mobile.webp);
     background-size: cover;
     background-position: center;
     text-align: center;
